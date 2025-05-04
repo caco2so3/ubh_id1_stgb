@@ -1,0 +1,8 @@
+aiogram>=3.0
+python-dotenv
+google-auth
+google-api-python-client
+schedule
+python-dateutil
+pytz
+watchdog

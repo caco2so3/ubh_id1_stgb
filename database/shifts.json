@@ -1,0 +1,130 @@
+{
+  "1": [
+    {
+      "start_time": "Калитвенцева Александра",
+      "end_time": "8-21 Спорт-Бар",
+      "shift_name": "александра",
+      "description": "11-21 Спорт-Бар"
+    }
+  ],
+  "2": [
+    {
+      "start_time": "Поречный Илья",
+      "end_time": "10-21 Брудер",
+      "shift_name": "илья",
+      "description": "10-21 Брудер"
+    }
+  ],
+  "3": [
+    {
+      "start_time": "Унгер Елизавета",
+      "end_time": "8-21 Дайнер",
+      "shift_name": "елизавета",
+      "description": "10-21 Дайнер"
+    }
+  ],
+  "4": [
+    {
+      "start_time": "Авдеев Глеб",
+      "end_time": "18-2 Брудер",
+      "shift_name": "глеб",
+      "description": "18-2 Брудер"
+    }
+  ],
+  "5": [
+    {
+      "start_time": "Авдеева Полина",
+      "end_time": "",
+      "shift_name": "полина",
+      "description": ""
+    }
+  ],
+  "6": [
+    {
+      "start_time": "Антипов Богдан(Саныч)",
+      "end_time": "",
+      "shift_name": "unknown",
+      "description": ""
+    }
+  ],
+  "7": [
+    {
+      "start_time": "Бегилов Ильдар",
+      "end_time": "8-14 Дайнер",
+      "shift_name": "ильдар",
+      "description": "14-23 Спорт--Бар"
+    }
+  ],
+  "8": [
+    {
+      "start_time": "Буранова Карина",
+      "end_time": "16-24 Дайнер",
+      "shift_name": "карина",
+      "description": ""
+    }
+  ],
+  "9": [
+    {
+      "start_time": "Исаев Денис (Рjавый)",
+      "end_time": "18-2 Спорт-Бар",
+      "shift_name": "unknown",
+      "description": "18-24 Дайнер"
+    }
+  ],
+  "10": [
+    {
+      "start_time": "Кунгуров Владислав",
+      "end_time": "14-23 Брудер",
+      "shift_name": "владислав",
+      "description": ""
+    }
+  ],
+  "11": [
+    {
+      "start_time": "Лычагина Юлия",
+      "end_time": "8-14 Ревизия",
+      "shift_name": "юлия",
+      "description": ""
+    }
+  ],
+  "12": [
+    {
+      "start_time": "Савельев Евгений",
+      "end_time": "16-2 Спорт-Бар",
+      "shift_name": "евгений",
+      "description": "18-2 Спорт-Бар"
+    }
+  ],
+  "13": [
+    {
+      "start_time": "Садыков Юрий(Дудь)",
+      "end_time": "",
+      "shift_name": "unknown",
+      "description": "14-23 Брудер"
+    }
+  ],
+  "14": [
+    {
+      "start_time": "Свистунова Марина",
+      "end_time": "",
+      "shift_name": "марина",
+      "description": ""
+    }
+  ],
+  "15": [
+    {
+      "start_time": "Юдин Кирилл",
+      "end_time": "",
+      "shift_name": "кирилл",
+      "description": ""
+    }
+  ],
+  "16": [
+    {
+      "start_time": "Солодовникова Мария",
+      "end_time": "14-23 Спорт-Бар",
+      "shift_name": "мария",
+      "description": "18-2 Спорт-Бар"
+    }
+  ]
+}

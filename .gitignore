@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Sensitive data
+.env
+data/creds.json
+data/.env
+
+
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
